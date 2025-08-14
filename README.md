@@ -7,7 +7,6 @@ The notebook trains both **Linear** and **RBF kernel** SVMs, visualizes decision
 ---
 
 ## 🚀 Features
-- 📂 Automatic dataset upload (CSV or ZIP)
 - 🔍 Automatic target column detection
 - 📊 SVM with **Linear** and **RBF** kernels
 - 🎨 Decision boundary visualization (first 2 features)
