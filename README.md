@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project implements **Support Vector Machines (SVM)** for **binary classification** using the **Breast Cancer dataset**.  
-The notebook supports **automatic dataset upload** (CSV or ZIP containing CSV), trains both **Linear** and **RBF kernel** SVMs, visualizes decision boundaries (2D), tunes hyperparameters, and evaluates performance.
+The notebook trains both **Linear** and **RBF kernel** SVMs, visualizes decision boundaries (2D), tunes hyperparameters, and evaluates performance.
 
 ---
 
